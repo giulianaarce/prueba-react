@@ -5,7 +5,7 @@ import './App.css';
 export default class App extends React.Component{
   render(){
     return(
-      <h1 id="titulo">ai loviu</h1>
+      <h1>Hola Mundo!</h1>
     )
   }
 }
